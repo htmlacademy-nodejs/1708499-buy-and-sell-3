@@ -55,12 +55,10 @@ const SumRestrict = {
 const PictureRestrict = {
   MIN: 1,
   MAX: 16,
-}
+};
 
 
-
-
-module.exports ={
+module.exports = {
   DEFAULT_COMMAND,
   USER_ARGV_INDEX,
   ExitCode,
@@ -73,4 +71,4 @@ module.exports ={
   OfferType,
   SumRestrict,
   PictureRestrict
-}
+};
